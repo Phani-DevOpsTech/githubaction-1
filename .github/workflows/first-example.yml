@@ -13,5 +13,5 @@ jobs:
       - name: List files in directory
         run: ls -la
 
-      - name: Display content of a file
-        run: cat README.md
+      - name: Display datetime
+        run: date
